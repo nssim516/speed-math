@@ -1,0 +1,1 @@
+This Python script sets up a sets up a math game. It gives players ten random problems with numbers between 2 and 12, and they are timed. When the player finishes, it tells them how fast they were and how many questions you got wrong.
