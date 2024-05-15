@@ -36,6 +36,7 @@ for i in range(TOTAL_PROBLEMS):
         if guess == str(answer):
             break
         wrong += 1
+        print("Try Again...")
 
 # END TIMER
 
