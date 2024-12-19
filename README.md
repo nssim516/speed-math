@@ -1,4 +1,4 @@
-#Speed Math
+# Speed Math
 
 A fast-paced math quiz game to test your skills! Solve randomly generated math problems as quickly as possible and try to beat your best time.
 
