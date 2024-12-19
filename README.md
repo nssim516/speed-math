@@ -1,8 +1,6 @@
 #Speed Math
---------------------------------------------------------------------------------
-This Python script sets up a sets up a math game. It gives players ten random problems with numbers between 2 and 12, and they are timed. When the player finishes, it tells them how fast they were and how many questions you got wrong.
---------------------------------------------------------------------------------
-A fast-paced math quiz game to test your arithmetic skills! Solve randomly generated math problems as quickly as possible and try to beat your best time.
+
+A fast-paced math quiz game to test your skills! Solve randomly generated math problems as quickly as possible and try to beat your best time.
 
 ## Features
 
