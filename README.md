@@ -37,6 +37,6 @@ Good job! You finished in 32.45 seconds!
 ```
 ## Customization
 You can modify the game settings by editing the constants in the script:
-- Operators: Adjust the list of allowed operators ('+', '-', '*').
+- Operators: Adjust the list of allowed operators (`+`, `-`, `*`).
 - Operands Range: Change the minimum and maximum values for the operands.
 - Total Problems: Increase or decrease the number of problems.
